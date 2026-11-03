@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Aryan Garg — building products, AI systems, and software" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Aryan Garg. Building products, AI systems, and software." width="100%" />
 
 <br />
 
@@ -8,7 +8,7 @@
 
 <br /><br />
 
-<img src="./assets/profile-roles.svg" alt="Full-stack developer · AI product builder · software engineer" width="72%" />
+<img src="./assets/profile-roles.svg" alt="Full stack developer · AI product builder · software engineer" width="72%" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## The short version
 
-I’m Aryan Garg — a second-year B.Tech CSE student who likes taking a messy real-world problem and turning it into something people can use. I build full-stack products, explore practical AI engineering, and learn fastest by shipping, joining hackathons, and working with other builders.
+I’m Aryan Garg, a second year B.Tech CSE student who likes taking a messy real world problem and turning it into something people can use. I build full stack products, explore practical AI engineering, and learn fastest by shipping, joining hackathons, and working with other builders.
 
 **Currently:** making useful products, experimenting with AI workflows, and getting better at the craft behind them.
 
@@ -27,9 +27,9 @@ I’m Aryan Garg — a second-year B.Tech CSE student who likes taking a messy r
 <td width="50%" valign="top">
 
 ### MediKiosk
-**Voice-first clinical intake · Health technology**
+**Voice led clinical intake · Health technology**
 
-A multilingual patient intake and medication-safety suite designed for busy clinics. The project explores how to make patient histories clearer before a clinician review.
+A multilingual patient intake and medication safety suite designed for busy clinics. The project explores how to make patient histories clearer before a clinician review.
 
 [Source ↗](https://github.com/StrikerFr/Brijwasi-Medikiosk)　·　[Live build ↗](https://brijwasi-medikiosk.vercel.app/)
 
@@ -37,9 +37,9 @@ A multilingual patient intake and medication-safety suite designed for busy clin
 <td width="50%" valign="top">
 
 ### Sahaara
-**Early warning · Elder-care coordination**
+**Early warning · Elder care coordination**
 
-A coordinator-first wellbeing platform exploring how small changes in daily patterns can lead to timely, human follow-up for older adults living at home.
+A wellbeing platform for care coordinators, exploring how small changes in daily patterns can lead to timely follow up for older adults living at home.
 
 [Source ↗](https://github.com/StrikerFr/sahaara-info)
 
@@ -49,7 +49,7 @@ A coordinator-first wellbeing platform exploring how small changes in daily patt
 <td width="50%" valign="top">
 
 ### Camply
-**Campus opportunities · AI-assisted discovery**
+**Campus opportunities · AI supported discovery**
 
 A college-focused platform for discovering events and competitions, finding teammates, and recognizing participation across campus.
 
@@ -73,7 +73,7 @@ A product research project for comparing prices across Indian stores, with revie
 ### RocketRide
 **AI development environment · Open source**
 
-An AI workflow engine with a C++ core and Python-extensible nodes, built to help compose and inspect AI pipelines from a developer’s workspace.
+An AI workflow engine with a C++ core and nodes that extend with Python, built to help compose and inspect AI pipelines from a developer’s workspace.
 
 [Source ↗](https://github.com/StrikerFr/rocketride-server)
 
