@@ -67,18 +67,6 @@ A product research project for comparing prices across Indian stores, with revie
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-### RocketRide
-**AI development environment · Open source**
-
-An AI workflow engine with a C++ core and nodes that extend with Python, built to help compose and inspect AI pipelines from a developer’s workspace.
-
-[Source ↗](https://github.com/StrikerFr/rocketride-server)
-
-</td>
-</tr>
 </table>
 
 ## My toolbox
