@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 250" role="img" aria-labelledby="title desc">
+  <title id="title">Live GitHub profile metrics for StrikerFr</title>
+  <desc id="desc">Public repository, star, and follower counts fetched directly from the GitHub API. Language bars count public repositories by their primary language.</desc>
+  <defs><linearGradient id="spectrum"><stop stop-color="#b9ff66"/><stop offset=".55" stop-color="#56ead0"/><stop offset="1" stop-color="#b58aff"/></linearGradient><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101520"/><stop offset="1" stop-color="#171324"/></linearGradient></defs>
+  <rect x="1" y="1" width="1098" height="248" rx="22" fill="url(#bg)" stroke="#343d50" />
+  <text x="34" y="42" fill="#9aa8c0" font-family="Consolas,monospace" font-size="12" font-weight="700" letter-spacing="2">LIVE GITHUB SIGNAL　/　STRIKERFR</text>
+  <path d="M34 57H1066" stroke="#293244" />
+  
+  <g>
+    <text x="38" y="83" fill="#818da5" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">PUBLIC REPOSITORIES</text>
+    <text x="38" y="143" fill="#f1f5fb" font-family="Arial,sans-serif" font-size="50" font-weight="700">24</text>
+    <rect x="38" y="164" width="4" height="36" rx="2" fill="#b9ff66" />
+  </g>
+  
+  <g>
+    <text x="260" y="83" fill="#818da5" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">STARS EARNED</text>
+    <text x="260" y="143" fill="#f1f5fb" font-family="Arial,sans-serif" font-size="50" font-weight="700">0</text>
+    <rect x="260" y="164" width="4" height="36" rx="2" fill="#56ead0" />
+  </g>
+  
+  <g>
+    <text x="480" y="83" fill="#818da5" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">FOLLOWERS</text>
+    <text x="480" y="143" fill="#f1f5fb" font-family="Arial,sans-serif" font-size="50" font-weight="700">2</text>
+    <rect x="480" y="164" width="4" height="36" rx="2" fill="#b58aff" />
+  </g>
+  <path d="M620 73V218" stroke="#30394b" />
+  <text x="650" y="72" fill="#818da5" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">PRIMARY LANGUAGES　/　REPOSITORY COUNT</text>
+  
+    <text x="650" y="96" fill="#d8dfeb" font-family="Arial,sans-serif" font-size="14">TypeScript</text>
+    <rect x="752" y="84" width="170" height="7" rx="3.5" fill="#252b3a" />
+    <rect x="752" y="84" width="170" height="7" rx="3.5" fill="url(#spectrum)" />
+    <text x="945" y="96" fill="#8190a9" font-family="Consolas,monospace" font-size="12">15 repos</text>
+    <text x="650" y="135" fill="#d8dfeb" font-family="Arial,sans-serif" font-size="14">Java</text>
+    <rect x="752" y="123" width="170" height="7" rx="3.5" fill="#252b3a" />
+    <rect x="752" y="123" width="11" height="7" rx="3.5" fill="url(#spectrum)" />
+    <text x="945" y="135" fill="#8190a9" font-family="Consolas,monospace" font-size="12">1 repos</text>
+    <text x="650" y="174" fill="#d8dfeb" font-family="Arial,sans-serif" font-size="14">Python</text>
+    <rect x="752" y="162" width="170" height="7" rx="3.5" fill="#252b3a" />
+    <rect x="752" y="162" width="11" height="7" rx="3.5" fill="url(#spectrum)" />
+    <text x="945" y="174" fill="#8190a9" font-family="Consolas,monospace" font-size="12">1 repos</text>
+  <text x="1064" y="229" text-anchor="end" fill="#65728a" font-family="Consolas,monospace" font-size="10">SOURCE: GITHUB REST API · AUTO-REFRESHED DAILY</text>
+</svg>

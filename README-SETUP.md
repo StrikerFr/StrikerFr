@@ -1,55 +1,56 @@
-# Setup and verification checklist
+# Profile README — setup and sources
 
-This folder is prepared as the special public profile repository `StrikerFr/StrikerFr`. GitHub displays its README on `github.com/StrikerFr` once it is pushed as a public repository owned by `StrikerFr`.
+This is the special public profile repository for **[StrikerFr](https://github.com/StrikerFr)**. Its `main` branch contains the README and locally hosted artwork. GitHub Actions builds fresh GitHub metrics and contribution animations, then publishes the generated contribution files to the `output` branch.
 
-## Before publishing
+## What runs automatically
 
-- [ ] Confirm each project repository and replace its row in `README.md` with a verified link and a short description supported by its README/source:
-  - MediKiosk: **repository URL needed**
-  - Sahaara: **repository URL needed**
-  - AgroPilot AI: **repository URL needed**
-  - LegalLens AI: **repository URL needed**
-- [ ] Add only technologies you have used or are actively learning. Use the [Skill Icons catalogue](https://github.com/tandpfun/skill-icons) names and syntax if you want to display its icons.
-- [ ] Confirm the exact wording/context for “Top 20 — Hackathon” and “Top 7 — Hypnexis Hackathon” if you want event names or dates shown. No dates or award titles have been added.
-- [ ] If needed, verify the LinkedIn URL and portfolio URL are the public pages you want visitors to use.
+- On every push to `main`, the workflow fetches the public profile data, refreshes `assets/profile-metrics.svg`, generates light and dark contribution snakes plus an animated GIF, and publishes those generated files to `output`.
+- It runs daily at 00:17 UTC and can also be started manually from **Actions → Refresh profile visuals → Run workflow**.
+- The workflow requests only `contents: write` and uses the repository-provided `GITHUB_TOKEN`. No personal access token, API key, or external image service is needed.
+- Ensure Actions are enabled and the repository’s Actions settings allow the workflow’s `GITHUB_TOKEN` to write repository contents. After the first push, check the workflow run if the snake images do not appear.
 
-## Publish
+## Push changes
 
-1. Create a **public** GitHub repository named exactly `StrikerFr` under the `StrikerFr` account. The repository name must match the username for GitHub to show the profile README.
-2. From this directory, initialize Git and push the files to the repository's default branch:
+From this repository folder, run `git push -u origin main`. The repository is already configured with `https://github.com/StrikerFr/StrikerFr.git` as `origin`.
 
-   ```powershell
-   git init
-   git add README.md README-SETUP.md assets .github
-   git commit -m "Build profile README"
-   git branch -M main
-   git remote add origin https://github.com/StrikerFr/StrikerFr.git
-   git push -u origin main
-   ```
+## Verified project links used in the profile
 
-3. In the repository settings, ensure Actions are enabled. The workflow requests only `contents: write`, uses the repository `GITHUB_TOKEN`, runs daily and supports manual dispatch. Run **Actions → Generate contribution snake → Run workflow** once. It publishes the two generated SVGs to the `output` branch.
-4. Once the `output` branch exists, the contribution image paths in `README.md` resolve from `raw.githubusercontent.com`.
+These repositories were found in the public `StrikerFr` account and their README/source metadata was inspected:
 
-## Components and sources reviewed
+| Profile entry | Public source | Description basis |
+| --- | --- | --- |
+| MediKiosk | [Brijwasi-Medikiosk](https://github.com/StrikerFr/Brijwasi-Medikiosk) | Its README describes a voice-first multilingual clinical intake and medication safety suite. |
+| Sahaara | [sahaara-info](https://github.com/StrikerFr/sahaara-info) | Its README describes coordinator-first wellbeing intelligence and care coordination for older adults living at home. |
+| Camply | [Camply](https://github.com/StrikerFr/Camply) | Its README describes campus opportunity discovery, AI assistance, team formation, and participation recognition. |
+| PricePilot | [Price-Pilot-AI](https://github.com/StrikerFr/Price-Pilot-AI) | Its README describes Indian store price comparison, product research, review analysis, price history, and alerts. |
+| RocketRide | [rocketride-server](https://github.com/StrikerFr/rocketride-server) | The repository description and README describe an AI development environment with a C++ core and Python/TypeScript integrations. |
 
-| Source | Technique used or considered |
+**AgroPilot AI** and **LegalLens AI** were not found in the public repository list for `StrikerFr`, so they are not linked or represented as verified projects. Add their exact public repository URLs if they are published elsewhere or under different names.
+
+## Research notes
+
+The profile’s composition is original. These real profile and component repositories were reviewed for their source Markdown, SVG/animation patterns, and automation:
+
+| Source | Reviewed approach |
 | --- | --- |
-| [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) | Project-forward profile sections and compact content hierarchy. |
-| [anuraghazra/anuraghazra](https://github.com/anuraghazra/anuraghazra) | Concise first-person intro and selective project emphasis. |
-| [Platane/snk](https://github.com/Platane/snk) | Contribution graph rendered as generated animated SVGs. |
-| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Live statistics and language cards, themed to match the palette. |
-| [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) | Animated role line. |
-| [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) | Candidate technology icon source; technologies remain blank until verified. |
-| [lowlighter/metrics](https://github.com/lowlighter/metrics) | Reviewed as a richer GitHub metrics option; not added to avoid a second workflow and extra token/configuration. |
-| [GitHub profile README guide](https://docs.github.com/en/account-and-profile/concepts/personal-profile) | Special-repository behavior and GitHub Flavored Markdown support. |
+| [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) | Clear project-led sections, useful media, and concise profile content. |
+| [anuraghazra/anuraghazra](https://github.com/anuraghazra/anuraghazra) | Short first-person positioning and emphasis on real work. |
+| [Platane/snk](https://github.com/Platane/snk) | Generates SVG and GIF animations from actual GitHub contribution history; used by the workflow. |
+| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Reviewed for dynamic stat card patterns. The public Vercel endpoint returned HTTP 503 during verification, so the profile now generates its own metrics SVG from the GitHub REST API. |
+| [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) | Reviewed for animated role text. A local custom role graphic is used to avoid another runtime image dependency. |
+| [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) | Reviewed as the icon source. The stack is currently rendered as lightweight text so technology icons cannot become broken remote images. |
+| [lowlighter/metrics](https://github.com/lowlighter/metrics) | Reviewed as a flexible metrics generator; replaced with a small local SVG generator to keep the data source explicit and configuration minimal. |
+| [GitHub profile README guide](https://docs.github.com/en/account-and-profile/concepts/personal-profile) | Special repository and supported README content. |
+| [GitHub profile gallery](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | Explored real profile layouts across animation, dynamic data, images, and minimalist styles. |
 
-Other profile gallery references: [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) and [awesome-github-profile](https://github.com/beydemirfurkan/awesome-github-profile).
+The visual direction takes inspiration from the measured hierarchy, project focus, and contribution animation techniques above. No other profile’s text or layout has been copied.
 
-## External image services
+## Files
 
-- `readme-typing-svg.demolab.com`: animated title line.
-- `github-readme-stats.vercel.app`: stats and language cards.
-- `streak-stats.demolab.com`: contribution streak card.
-- `raw.githubusercontent.com/StrikerFr/StrikerFr/output/...`: workflow-generated snake SVGs.
-
-These services are third-party and can rate-limit, change behavior, or be unavailable. Generated snake assets are published by this repository's workflow. Stats and streak figures are computed externally and may lag GitHub.
+- `README.md` — profile content, verified project links, and graphics.
+- `assets/profile-banner.svg` — original animated neon terminal/orbit header.
+- `assets/profile-roles.svg` — local SVG role strip.
+- `assets/profile-footer.svg` — original animated closing graphic.
+- `assets/profile-metrics.svg` — live metrics SVG generated by the workflow; the committed copy is a real API snapshot.
+- `.github/workflows/snake.yml` — daily, push-triggered, and manual generation/publish workflow.
+- `scripts/generate-profile-metrics.mjs` — dependency-free GitHub API to SVG generator.

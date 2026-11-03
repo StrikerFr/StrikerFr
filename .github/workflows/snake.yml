@@ -1,6 +1,8 @@
-name: Generate contribution snake
+name: Refresh profile visuals
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "17 0 * * *"
   workflow_dispatch:
@@ -12,18 +14,38 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate contribution snake SVGs
+      - name: Check out profile repository
+        uses: actions/checkout@v7.0.1
+
+      - name: Generate contribution animations
         uses: Platane/snk@v3.5.0
         with:
           github_user_name: StrikerFr
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-snake.gif?color_snake=%23ff7a45&color_dots=%23ebedf0,%23b9ff66,%2373e2c2,%234abf94,%23277866&color_background=%230b0e15
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish SVGs to output branch
-        uses: peaceiris/actions-gh-pages@v4.0.0
+      - name: Generate live public profile metrics
+        run: node scripts/generate-profile-metrics.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Keep the README metrics card current
+        run: |
+          if git diff --quiet -- assets/profile-metrics.svg; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-metrics.svg
+          git commit -m "Refresh live profile metrics"
+          git push
+
+      - name: Publish generated visuals
+        uses: peaceiris/actions-gh-pages@v4.1.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
