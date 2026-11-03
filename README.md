@@ -1,12 +1,22 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Aryan Garg — Full-stack developer building thoughtful software" width="100%" />
+<img src="assets/profile-banner.svg" width="100%" alt="Aryan Garg — Developer, Builder, and Problem Solver" />
 
-<a href="https://arynx.in">Portfolio</a> · <a href="https://github.com/StrikerFr">GitHub</a> · <a href="https://www.linkedin.com/in/aryan-garg-828747381">LinkedIn</a>
+<br/>
 
-<br />
+<a href="https://arynx.in">
+  <img src="https://img.shields.io/badge/Portfolio-arynx.in-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/StrikerFr">
+  <img src="https://img.shields.io/badge/GitHub-StrikerFr-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aryan-garg-828747381">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![Typing introduction](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&pause=1300&color=7DE3D1&center=true&vCenter=true&width=520&height=32&lines=Full-Stack+Developer;AI+Product+Builder;Software+Engineer)](https://git.io/typing-svg)
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=8B9EFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Product+Builder;Turning+Ideas+Into+Real+Products)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,71 +24,124 @@
 
 ## About
 
-I’m Aryan, a second-year B.Tech CSE student interested in building useful software. I’m exploring full-stack development and AI engineering while turning ideas into real-world products and taking part in hackathons. I enjoy learning by shipping, collaborating, and improving a product from the first sketch to a working experience.
+I'm Aryan Garg, a second-year B.Tech CSE student interested in building useful software with thoughtful design and practical engineering. I'm exploring full-stack development and AI engineering while turning ideas into real-world products and participating in hackathons.
 
-## Selected work
+> I believe the best software doesn't just demonstrate technology.
+> It solves a problem people actually have.
 
-These are projects I’m working on. Their repository links are intentionally pending verification; see [README-SETUP.md](README-SETUP.md) to connect the right public repositories.
+## Featured Projects
 
-| Project | What it is |
-| --- | --- |
-| **MediKiosk** | Digital patient case-taking software. |
-| **Sahaara** | An AI-powered platform for elderly care and coordination. |
-| **AgroPilot AI** | An agriculture-focused AI project. |
-| **LegalLens AI** | An AI-powered legal information project. |
+<table>
+<tr>
+<td width="50%">
 
-## Technology
+### 🩺 MediKiosk
 
-I’m keeping this section focused on tools I can personally confirm. Add the technologies you have used or are actively learning in the setup checklist before publishing; the icon catalogue below is ready to use once that list is confirmed.
+Digital patient case-taking software focused on structured patient
+history and streamlined clinical workflows.
 
-<details>
-<summary>Technology groups to personalize</summary>
+**Focus:** Healthcare · Full-stack · AI
 
-| Area | Add your verified tools |
-| --- | --- |
-| Languages | Add languages you have used or are actively learning |
-| Frontend | Add frameworks and UI tools |
-| Backend | Add runtimes and frameworks |
-| Databases | Add databases and data stores |
-| AI & machine learning | Add libraries, model APIs, and platforms |
-| Tools & infrastructure | Add version control, deployment, and developer tools |
+</td>
+<td width="50%">
 
-</details>
+### 🤝 Sahaara
 
-<!-- Skill Icons usage and available names: https://github.com/tandpfun/skill-icons -->
+An elderly-care coordination platform connecting seniors,
+care coordinators, and family members.
 
-## GitHub activity
+**Focus:** AI · Voice · Healthcare
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌾 AgroPilot AI
+
+An agriculture-focused project designed to help farmers
+access useful information and make informed decisions.
+
+**Focus:** AI · Agriculture · Product
+
+</td>
+<td width="50%">
+
+### ⚖️ LegalLens AI
+
+An AI-powered project exploring more accessible legal
+information and assistance.
+
+**Focus:** AI · Legal technology
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/StrikerFr"><img height="165" src="https://github-readme-stats.vercel.app/api?username=StrikerFr&show_icons=true&hide_title=true&hide_border=true&bg_color=0b1020&title_color=7de3d1&text_color=c9d5e5&icon_color=7de3d1" alt="GitHub statistics for StrikerFr" /></a>
-<a href="https://github.com/StrikerFr"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerFr&layout=compact&hide_border=true&bg_color=0b1020&title_color=7de3d1&text_color=c9d5e5" alt="Most used programming languages for StrikerFr" /></a>
+**Languages**
 
-<br />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" alt="JavaScript, TypeScript, Python, Java, HTML, CSS" />
 
-[![Contribution streak](https://streak-stats.demolab.com?user=StrikerFr&theme=transparent&hide_border=true&ring=7DE3D1&fire=F7B267&currStreakLabel=7DE3D1&sideLabels=C9D5E5&dates=91A0B5)](https://git.io/streak-stats)
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,redis" alt="Node.js, FastAPI, PostgreSQL, MongoDB, Redis" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Git, GitHub, Docker, Linux, VS Code" />
 
 </div>
 
-> These cards are live third-party services. GitHub statistics can lag or differ from GitHub’s own contribution graph; they are not manually supplied figures.
+## GitHub Activity
 
-## Contribution trail
+<div align="center">
 
-The snake animation is generated from GitHub contribution data by the workflow in this repository. GitHub Actions must run successfully once before the image appears.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=StrikerFr&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerFr&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=StrikerFr&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## Contribution Graph
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StrikerFr/StrikerFr/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StrikerFr/StrikerFr/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated snake traversing StrikerFr's GitHub contribution graph" src="https://raw.githubusercontent.com/StrikerFr/StrikerFr/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/StrikerFr/StrikerFr/output/github-contribution-grid-snake.svg" alt="Animated snake traversing StrikerFr contribution activity" width="100%" />
 </picture>
 
-## Hackathons
+</div>
 
-- **Top 20** — Hackathon
-- **Top 7** — Hypnexis Hackathon
+## Achievements
 
-## Get in touch
+- 🏆 Top 20 — Hackathon
+- 🏆 Top 7 — Hypnexis Hackathon
+- 🚀 Building and experimenting with real-world products
 
-[Portfolio](https://arynx.in) · [GitHub](https://github.com/StrikerFr) · [LinkedIn](https://www.linkedin.com/in/aryan-garg-828747381)
+## Connect
 
-<div align="center"><img src="./assets/profile-footer.svg" alt="Building with curiosity · Shipping with care" width="100%" /></div>
+<div align="center">
+
+<a href="https://arynx.in">Portfolio</a> ·
+<a href="https://github.com/StrikerFr">GitHub</a> ·
+<a href="https://www.linkedin.com/in/aryan-garg-828747381">LinkedIn</a>
+
+<br/><br/>
+
+<img src="assets/profile-footer.svg" width="100%" alt="Building with curiosity · Shipping with care" />
+
+</div>
