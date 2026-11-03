@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Aryan Garg — developer profile banner</title>
+  <desc id="desc">Dark midnight blue banner with teal and violet orbital lines, the name Aryan Garg, and a tagline about building software for the real world.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d19"/><stop offset=".55" stop-color="#101a2c"/><stop offset="1" stop-color="#101226"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#25b6a5" stop-opacity=".22"/><stop offset="1" stop-color="#25b6a5" stop-opacity="0"/></radialGradient>
+    <linearGradient id="stroke" x1="0" x2="1"><stop stop-color="#71e4d2" stop-opacity=".05"/><stop offset=".55" stop-color="#71e4d2" stop-opacity=".7"/><stop offset="1" stop-color="#a68bfa" stop-opacity=".1"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#9db3d0" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <ellipse cx="940" cy="160" rx="330" ry="250" fill="url(#glow)"/>
+  <g fill="none" stroke="url(#stroke)">
+    <ellipse cx="945" cy="170" rx="260" ry="90" transform="rotate(-24 945 170)" stroke-width="1.3"/>
+    <ellipse cx="945" cy="170" rx="320" ry="132" transform="rotate(-24 945 170)" stroke-opacity=".48"/>
+    <ellipse cx="945" cy="170" rx="380" ry="174" transform="rotate(-24 945 170)" stroke-opacity=".24"/>
+  </g>
+  <circle cx="1071" cy="68" r="3" fill="#8cf0df"/><circle cx="720" cy="268" r="2" fill="#b39bff"/><circle cx="1128" cy="246" r="2" fill="#8cf0df"/>
+  <path d="M72 74h28" stroke="#71e4d2" stroke-width="3" stroke-linecap="round"/>
+  <text x="72" y="117" fill="#9eb2cc" font-family="'Segoe UI',Arial,sans-serif" font-size="14" letter-spacing="3.5">DEVELOPER · PRODUCT BUILDER</text>
+  <text x="68" y="205" fill="#f3f6fb" font-family="'Segoe UI',Arial,sans-serif" font-size="64" font-weight="650" letter-spacing="-2">Aryan Garg</text>
+  <text x="72" y="249" fill="#c0ccdc" font-family="'Segoe UI',Arial,sans-serif" font-size="19">Building useful software for the real world.</text>
+  <text x="72" y="310" fill="#70839d" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" letter-spacing="1.4">FULL-STACK  /  AI ENGINEERING  /  OPEN SOURCE</text>
+  <text x="1095" y="315" fill="#698098" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12">IN · 01</text>
+</svg>
