@@ -1,13 +1,13 @@
 
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Aryan Garg — Software Engineer & Product Builder" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Aryan Garg — Software Engineer and Product Builder" width="100%" />
 
 <br />
 
-[Portfolio](https://arynx.in) · [LinkedIn](https://www.linkedin.com/in/aryan-garg-828747381) · [Email](mailto:aryan@arynx.in)
+[Portfolio](https://arynx.in) · [GitHub](https://github.com/StrikerFr) · [LinkedIn](https://www.linkedin.com/in/aryan-garg-828747381)
 
-<br />
+<br /><br />
 
 <img src="./assets/profile-roles.svg" alt="Full-stack development · AI engineering · Product building" width="72%" />
 
@@ -17,35 +17,37 @@
 
 ## About
 
-I'm Aryan Garg, a B.Tech Computer Science student and software engineer interested in building useful products.
+I'm Aryan Garg, a second-year B.Tech Computer Science student and software engineer who enjoys building products that solve real problems.
 
-I work across frontend development, backend systems, and practical AI engineering. I enjoy turning real-world problems into software that is intuitive to use, thoughtfully engineered, and built to scale.
+My work spans full-stack development, AI engineering, and product design. I like taking an idea from an early prototype to a usable product, with an emphasis on thoughtful interfaces, reliable systems, and practical functionality.
 
-- Currently working as a Front-End AI Engineering Intern at FlyRank AI.
-- Building full-stack products and AI-powered applications.
-- Exploring product engineering, software architecture, and developer experience.
+**Currently:** Front-End AI Engineering Intern at FlyRank AI, building interfaces for AI-powered search and organic growth products.
 
 ## Experience
 
-**FlyRank AI** — Front-End AI Engineering Intern
+### FlyRank AI
+**Front-End AI Engineering Intern**
 
 Building React interfaces for AI-powered search and organic growth products.
 
-**Decode Labs** — AI Intern
+### Decode Labs
+**AI Intern**
 
 Worked on LLM-powered applications and AI product development.
 
-**Pinnacle Labs** — Web Development Intern
+### Pinnacle Labs
+**Web Development Intern**
 
 Built web applications, including an e-commerce platform and a weather dashboard.
 
-**Independent Projects**
+### Independent Development
+**Freelance Developer**
 
 Delivered web and AI projects for 25+ clients.
 
-[Decode Labs](https://github.com/StrikerFr/DecodeLabs-Internship) · [Pinnacle Labs](https://github.com/StrikerFr/PinnacleLabs-Internship)
+[Decode Labs projects](https://github.com/StrikerFr/DecodeLabs-Internship) · [Pinnacle Labs projects](https://github.com/StrikerFr/PinnacleLabs-Internship)
 
-## Featured Projects
+## Selected Projects
 
 <table>
 <tr>
@@ -66,7 +68,7 @@ A multilingual patient intake platform designed to help clinics collect structur
 
 **Healthcare · Elder care**
 
-An elderly care coordination platform exploring how daily wellbeing patterns can help care teams identify changes and follow up with seniors.
+An elderly care coordination platform exploring how changes in daily wellbeing patterns can help care teams identify concerns and follow up with seniors.
 
 [Repository](https://github.com/StrikerFr/sahaara-info)
 
@@ -98,23 +100,23 @@ A product research platform for comparing prices across Indian stores, analyzing
 </tr>
 </table>
 
-## Tech Stack
+## Technical Skills
 
-| Category | Technologies |
+| Area | Technologies |
 | --- | --- |
-| Languages | TypeScript, JavaScript, Python, Java, C |
-| Frontend | React, Next.js, Tailwind CSS, Framer Motion |
+| Languages | JavaScript, TypeScript, Python, Java, C, HTML, CSS |
+| Frontend | React, Next.js, Tailwind CSS, Framer Motion, Three.js |
 | Backend | Node.js, Express, FastAPI, REST APIs |
-| Databases | PostgreSQL, MongoDB, Redis |
-| AI Engineering | OpenAI API, Groq, Hugging Face, RAG, AI agents |
+| Databases | PostgreSQL, MongoDB, Redis, Firebase, Supabase |
+| AI Engineering | OpenAI API, Azure OpenAI, Groq, Hugging Face, RAG, AI agents |
 | Tools | Git, GitHub, Docker, Figma, Vercel |
 
 ## Achievements
 
-- Winner of three national hackathons: Intrusion X, NSUT One Line One Shot, and VisionX.
-- Completed the 30 Projects in 30 Days challenge.
+- **Hackathon Winner:** Intrusion X, NSUT One Line One Shot, and VisionX.
+- **30 Projects in 30 Days:** Built and documented a collection of projects across web development and AI.
 
-[Explore the projects](https://www.arynx.in/30projects)
+[Explore the 30-project collection](https://www.arynx.in/30projects)
 
 ## GitHub Activity
 
@@ -129,14 +131,14 @@ A product research platform for comparing prices across Indian stores, analyzing
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
-  <img src="./assets/github-contribution-grid-snake.svg" alt="GitHub contribution activity" width="100%" />
+  <img src="./assets/github-contribution-grid-snake.svg" alt="Animated visualization of Aryan's GitHub contribution history" width="100%" />
 </picture>
 
 </div>
 
 ## Let's Connect
 
-I'm always interested in building useful products, collaborating with other developers, and exploring new ideas.
+I'm interested in building useful products, collaborating with other developers, and exploring ideas that combine software engineering with practical AI.
 
 [Portfolio](https://arynx.in) · [GitHub](https://github.com/StrikerFr) · [LinkedIn](https://www.linkedin.com/in/aryan-garg-828747381)
 
