@@ -29,11 +29,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate live public profile metrics
+        id: metrics
+        continue-on-error: true
         run: node scripts/generate-profile-metrics.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Keep the README metrics card current
+        if: steps.metrics.outcome == 'success'
+        continue-on-error: true
         run: |
           if git diff --quiet -- assets/profile-metrics.svg; then
             exit 0
