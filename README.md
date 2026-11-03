@@ -88,13 +88,13 @@ These technologies are listed in my résumé and public project READMEs.
 | **AI engineering** | OpenAI API · Azure OpenAI · Groq · Hugging Face · LangChain · RAG · AI agents |
 | **Tools and delivery** | Git · GitHub · Figma · Vercel · Docker |
 
-## GitHub, in motion
+## GitHub activity
 
 <div align="center">
 
 <a href="https://github.com/StrikerFr?tab=repositories"><img src="./assets/profile-metrics.svg" alt="Automatically updated public GitHub profile metrics" width="100%" /></a>
 
-<br /><br />
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
@@ -102,13 +102,9 @@ These technologies are listed in my résumé and public project READMEs.
   <img src="./assets/github-contribution-grid-snake.svg" alt="Animated snake tracing Aryan’s real GitHub contribution graph" width="100%" />
 </picture>
 
-<br />
-
-<img src="./assets/github-contribution-snake.gif" alt="Animated contribution snake in neon orange and green" width="100%" />
-
 </div>
 
-> The metrics are generated from GitHub’s public API. GitHub Actions refreshes the contribution SVGs and GIF from the real contribution graph and stores them with this README; the `output` branch is also published as a copy.
+> The profile counts come from GitHub. The snake follows my actual contribution history.
 
 ## Wins and milestones
 
