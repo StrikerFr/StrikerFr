@@ -102,18 +102,18 @@ These technologies appear in my public project READMEs and source manifests.
 <br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StrikerFr/StrikerFr/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StrikerFr/StrikerFr/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/StrikerFr/StrikerFr/output/github-contribution-grid-snake.svg" alt="Animated snake tracing Aryan’s real GitHub contribution graph" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
+  <img src="./assets/github-contribution-grid-snake.svg" alt="Animated snake tracing Aryan’s real GitHub contribution graph" width="100%" />
 </picture>
 
 <br />
 
-<img src="https://raw.githubusercontent.com/StrikerFr/StrikerFr/output/github-contribution-snake.gif" alt="Animated contribution snake in neon orange and green" width="100%" />
+<img src="./assets/github-contribution-snake.gif" alt="Animated contribution snake in neon orange and green" width="100%" />
 
 </div>
 
-> The metrics are generated from GitHub’s public API. The contribution SVGs and GIF are created from the real contribution graph by GitHub Actions. The first run starts after a push to `main`; those images appear when that run completes.
+> The metrics are generated from GitHub’s public API. GitHub Actions refreshes the contribution SVGs and GIF from the real contribution graph and stores them with this README; the `output` branch is also published as a copy.
 
 ## Hackathons
 
