@@ -1,53 +1,74 @@
+
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Aryan Garg. Building products, AI systems, and software." width="100%" />
+<img src="./assets/profile-banner.svg" alt="Aryan Garg — Software Engineer & Product Builder" width="100%" />
 
 <br />
 
-<a href="https://arynx.in">PORTFOLIO</a>　·　<a href="https://github.com/StrikerFr">GITHUB</a>　·　<a href="https://www.linkedin.com/in/aryan-garg-828747381">LINKEDIN</a>
+[Portfolio](https://arynx.in) · [LinkedIn](https://www.linkedin.com/in/aryan-garg-828747381) · [Email](mailto:aryan@arynx.in)
 
-<br /><br />
+<br />
 
-<img src="./assets/profile-roles.svg" alt="Full stack developer · AI product builder · software engineer" width="72%" />
+<img src="./assets/profile-roles.svg" alt="Full-stack development · AI engineering · Product building" width="72%" />
 
 </div>
 
-<br />
+---
 
-## The short version
+## About
 
-I’m Aryan Garg, a second year B.Tech CSE student who likes taking a messy real world problem and turning it into something people can use. I build full stack products, explore practical AI engineering, and learn fastest by shipping, joining hackathons, and working with other builders.
+I'm Aryan Garg, a B.Tech Computer Science student and software engineer interested in building useful products.
 
-**Currently:** making useful products, experimenting with AI workflows, and getting better at the craft behind them.
+I work across frontend development, backend systems, and practical AI engineering. I enjoy turning real-world problems into software that is intuitive to use, thoughtfully engineered, and built to scale.
 
-## In the field
+- Currently working as a Front-End AI Engineering Intern at FlyRank AI.
+- Building full-stack products and AI-powered applications.
+- Exploring product engineering, software architecture, and developer experience.
 
-I’m a Front End AI Engineering Intern at FlyRank AI, building React interfaces for AI search and organic growth products. Previously, I worked at Decode Labs and Pinnacle Labs, building LLM powered applications, an AI task planner, an ecommerce platform, and a weather dashboard. I’ve also delivered independent AI and web projects for more than 25 clients.
+## Experience
 
-[Decode Labs work ↗](https://github.com/StrikerFr/DecodeLabs-Internship)　·　[Pinnacle Labs work ↗](https://github.com/StrikerFr/PinnacleLabs-Internship)
+**FlyRank AI** — Front-End AI Engineering Intern
 
-## Things I’m building
+Building React interfaces for AI-powered search and organic growth products.
+
+**Decode Labs** — AI Intern
+
+Worked on LLM-powered applications and AI product development.
+
+**Pinnacle Labs** — Web Development Intern
+
+Built web applications, including an e-commerce platform and a weather dashboard.
+
+**Independent Projects**
+
+Delivered web and AI projects for 25+ clients.
+
+[Decode Labs](https://github.com/StrikerFr/DecodeLabs-Internship) · [Pinnacle Labs](https://github.com/StrikerFr/PinnacleLabs-Internship)
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### MediKiosk
-**Voice led clinical intake · Health technology**
 
-A multilingual patient intake and medication safety suite designed for busy clinics. The project explores how to make patient histories clearer before a clinician review.
+**Healthcare · Clinical workflow**
 
-[Source ↗](https://github.com/StrikerFr/Brijwasi-Medikiosk)　·　[Live build ↗](https://brijwasi-medikiosk.vercel.app/)
+A multilingual patient intake platform designed to help clinics collect structured medical histories and support medication safety workflows.
+
+[Repository](https://github.com/StrikerFr/Brijwasi-Medikiosk) · [Live Demo](https://brijwasi-medikiosk.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
 ### Sahaara
-**Early warning · Elder care coordination**
 
-A wellbeing platform for care coordinators, exploring how small changes in daily patterns can lead to timely follow up for older adults living at home.
+**Healthcare · Elder care**
 
-[Source ↗](https://github.com/StrikerFr/sahaara-info)
+An elderly care coordination platform exploring how daily wellbeing patterns can help care teams identify changes and follow up with seniors.
+
+[Repository](https://github.com/StrikerFr/sahaara-info)
 
 </td>
 </tr>
@@ -55,65 +76,70 @@ A wellbeing platform for care coordinators, exploring how small changes in daily
 <td width="50%" valign="top">
 
 ### Camply
-**Campus opportunities · AI supported discovery**
 
-A campus platform for discovering events and competitions, finding teammates, and recognizing participation across campus.
+**Campus · Community**
 
-[Source ↗](https://github.com/StrikerFr/Camply)
+A campus platform for discovering events and competitions, finding teammates, and tracking participation.
+
+[Repository](https://github.com/StrikerFr/Camply)
 
 </td>
 <td width="50%" valign="top">
 
 ### PricePilot
-**Product research · Price comparison**
 
-A product research project for comparing prices across Indian stores, with review analysis, price history, and drop alerts.
+**E-commerce · Product research**
 
-[Source ↗](https://github.com/StrikerFr/Price-Pilot-AI)
+A product research platform for comparing prices across Indian stores, analyzing reviews, and tracking price changes.
+
+[Repository](https://github.com/StrikerFr/Price-Pilot-AI)
 
 </td>
 </tr>
 </table>
 
-## My toolbox
+## Tech Stack
 
-These technologies are listed in my résumé and public project READMEs.
-
-| Area | Tools I’m using and learning |
+| Category | Technologies |
 | --- | --- |
-| **Languages** | JavaScript · TypeScript · Python · Java · C · HTML · CSS |
-| **Frontend** | React · Next.js · Tailwind CSS · Framer Motion · Three.js · TanStack Start |
-| **Backend** | Node.js · Express · FastAPI · REST APIs |
-| **Data and identity** | PostgreSQL · MongoDB · Supabase · Prisma · Firebase · Clerk |
-| **AI engineering** | OpenAI API · Azure OpenAI · Groq · Hugging Face · LangChain · RAG · AI agents |
-| **Tools and delivery** | Git · GitHub · Figma · Vercel · Docker |
+| Languages | TypeScript, JavaScript, Python, Java, C |
+| Frontend | React, Next.js, Tailwind CSS, Framer Motion |
+| Backend | Node.js, Express, FastAPI, REST APIs |
+| Databases | PostgreSQL, MongoDB, Redis |
+| AI Engineering | OpenAI API, Groq, Hugging Face, RAG, AI agents |
+| Tools | Git, GitHub, Docker, Figma, Vercel |
 
-## GitHub activity
+## Achievements
+
+- Winner of three national hackathons: Intrusion X, NSUT One Line One Shot, and VisionX.
+- Completed the 30 Projects in 30 Days challenge.
+
+[Explore the projects](https://www.arynx.in/30projects)
+
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/StrikerFr?tab=repositories"><img src="./assets/profile-metrics.svg" alt="Automatically updated public GitHub profile metrics" width="100%" /></a>
+<a href="https://github.com/StrikerFr?tab=repositories">
+<img src="./assets/profile-metrics.svg" alt="GitHub profile metrics" width="100%" />
+</a>
 
 <br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
-  <img src="./assets/github-contribution-grid-snake.svg" alt="Animated snake tracing Aryan’s real GitHub contribution graph" width="100%" />
+  <img src="./assets/github-contribution-grid-snake.svg" alt="GitHub contribution activity" width="100%" />
 </picture>
 
 </div>
 
-> The profile counts come from GitHub. The snake follows my actual contribution history.
+## Let's Connect
 
-## Wins and milestones
+I'm always interested in building useful products, collaborating with other developers, and exploring new ideas.
 
-**Winner of three national hackathons:** Intrusion X · NSUT One Line One Shot · VisionX.
+[Portfolio](https://arynx.in) · [GitHub](https://github.com/StrikerFr) · [LinkedIn](https://www.linkedin.com/in/aryan-garg-828747381)
 
-**30 projects in 30 days:** [Explore the project collection ↗](https://www.arynx.in/30projects)
-
-## Say hello
-
-[arynx.in](https://arynx.in)　·　[GitHub](https://github.com/StrikerFr)　·　[LinkedIn](https://www.linkedin.com/in/aryan-garg-828747381)
-
-<div align="center"><img src="./assets/profile-footer.svg" alt="Build boldly. Stay curious. Ship with care." width="100%" /></div>
+<div align="center">
+<img src="./assets/profile-footer.svg" alt="Build boldly. Stay curious. Ship with care." width="100%" />
+</div>
