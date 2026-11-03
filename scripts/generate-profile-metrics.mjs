@@ -69,6 +69,7 @@ const svg = `<?xml version="1.0" encoding="UTF-8"?>
 </svg>`;
 
 await mkdir("dist", { recursive: true });
-await writeFile("dist/profile-metrics.svg", svg);
+const cleanSvg = svg.replace(/^[ \t]+$/gm, "");
+await writeFile("dist/profile-metrics.svg", cleanSvg);
 await mkdir("assets", { recursive: true });
-await writeFile("assets/profile-metrics.svg", svg);
+await writeFile("assets/profile-metrics.svg", cleanSvg);
