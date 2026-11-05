@@ -15,8 +15,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=StrikerFr&label=Profile+Views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/StrikerFr?label=Followers&style=flat&logo=github)
-![Public Repos](https://img.shields.io/github/search/StrikerFr/StrikerFr?label=&style=flat)
-![Hackathon Wins](https://img.shields.io/badge/Hackathon_Wins-3-success?style=flat)
+![Hackathon Wins](https://img.shields.io/badge/Hackathon_Wins-2-success?style=flat)
 ![Clients](https://img.shields.io/badge/Clients_Served-25%2B-blueviolet?style=flat)
 
 </div>
@@ -30,7 +29,7 @@ I'm **Aryan Garg**, a second-year B.Tech Computer Science student and software e
 My work spans **full-stack development**, **AI engineering**, and **product design**. I like taking an idea from an early prototype to a usable product, with an emphasis on thoughtful interfaces, reliable systems, and practical functionality.
 
 - 🔭 **Currently:** Front-End AI Engineering Intern at [FlyRank AI](https://www.flyrank.com), building interfaces for AI-powered search and organic growth products
-- 🏆 **Won** Intrusion X, NSUT One Line One Shot, and VisionX hackathons
+- 🏆 **Won** the Intrusion X and NSUT One Line One Shot hackathons; shortlisted at Deviathon 2.0, Hypnexis '26 and SIH 2026
 - 🌱 **Exploring:** RAG pipelines, AI agents, and practical LLM products
 - 💬 **Ask me about:** React, Next.js, AI integrations, shipping fast
 - ⚡ **Fun fact:** I built 30 projects in 30 days
@@ -54,9 +53,7 @@ My work spans **full-stack development**, **AI engineering**, and **product desi
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/StrikerFr/Brijwasi-Medikiosk">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=StrikerFr&repo=Brijwasi-Medikiosk&theme=transparent&hide_border=true" alt="MediKiosk" />
-</a>
+### [MediKiosk](https://github.com/StrikerFr/Brijwasi-Medikiosk)
 
 **Healthcare · Clinical workflow**
 A multilingual patient intake platform that helps clinics collect structured medical histories and support medication safety workflows.
@@ -66,9 +63,7 @@ A multilingual patient intake platform that helps clinics collect structured med
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/StrikerFr/sahaara-info">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=StrikerFr&repo=sahaara-info&theme=transparent&hide_border=true" alt="Sahaara" />
-</a>
+### [Sahaara](https://github.com/StrikerFr/sahaara-info)
 
 **Healthcare · Elder care**
 An elderly care coordination platform exploring how changes in daily wellbeing patterns can help care teams follow up with seniors.
@@ -80,9 +75,7 @@ An elderly care coordination platform exploring how changes in daily wellbeing p
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/StrikerFr/Camply">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=StrikerFr&repo=Camply&theme=transparent&hide_border=true" alt="Camply" />
-</a>
+### [Camply](https://github.com/StrikerFr/Camply)
 
 **Campus · Community**
 A campus platform for discovering events and competitions, finding teammates, and tracking participation.
@@ -92,9 +85,7 @@ A campus platform for discovering events and competitions, finding teammates, an
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/StrikerFr/Price-Pilot-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=StrikerFr&repo=Price-Pilot-AI&theme=transparent&hide_border=true" alt="PricePilot" />
-</a>
+### [PricePilot](https://github.com/StrikerFr/Price-Pilot-AI)
 
 **E-commerce · Product research**
 A product research platform for comparing prices across Indian stores, analyzing reviews, and tracking price changes.
@@ -165,9 +156,11 @@ A product research platform for comparing prices across Indian stores, analyzing
 
 | | Achievement |
 | --- | --- |
-| 🥇 | **Intrusion X** — Hackathon Winner |
+| 🥇 | **Intrusion X** — Hackathon Winner (36-hour, Cyberonites Club) with *Kavach AI*, a real-time document trust and fraud prevention system |
 | 🥇 | **NSUT One Line One Shot** — Hackathon Winner |
-| 🥇 | **VisionX** — Hackathon Winner |
+| 🎯 | **Deviathon 2.0** (GLA University) — shortlisted among the top 80 teams |
+| 🎯 | **Hypnexis '26** — shortlisted, national-level hackathon |
+| 🇮🇳 | **Smart India Hackathon 2026** — selected in the internal round from 500+ teams |
 | ⚡ | **30 Projects in 30 Days** — built and documented across web development and AI → [explore the collection](https://www.arynx.in/30projects) |
 | 🤝 | **25+ clients** served as a freelance developer |
 
