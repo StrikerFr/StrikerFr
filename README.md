@@ -15,7 +15,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=StrikerFr&label=Profile+Views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/StrikerFr?label=Followers&style=flat&logo=github)
-![Hackathon Wins](https://img.shields.io/badge/Hackathon_Wins-2-success?style=flat)
+![Hackathon Wins](https://img.shields.io/badge/Hackathon_Wins-8-success?style=flat)
 ![Clients](https://img.shields.io/badge/Clients_Served-25%2B-blueviolet?style=flat)
 
 </div>
@@ -29,7 +29,7 @@ I'm **Aryan Garg**, a second-year B.Tech Computer Science student and software e
 My work spans **full-stack development**, **AI engineering**, and **product design**. I like taking an idea from an early prototype to a usable product, with an emphasis on thoughtful interfaces, reliable systems, and practical functionality.
 
 - 🔭 **Currently:** Front-End AI Engineering Intern at [FlyRank AI](https://www.flyrank.com), building interfaces for AI-powered search and organic growth products
-- 🏆 **Won** the Intrusion X and NSUT One Line One Shot hackathons; shortlisted at Deviathon 2.0, Hypnexis '26 and SIH 2026
+- 🏆 **Won** 8 hackathons including Intrusion X and NSUT One Line One Shot; shortlisted at Deviathon 2.0, Hypnexis '26 and SIH 2026
 - 🌱 **Exploring:** RAG pipelines, AI agents, and practical LLM products
 - 💬 **Ask me about:** React, Next.js, AI integrations, shipping fast
 - ⚡ **Fun fact:** I built 30 projects in 30 days
@@ -158,6 +158,12 @@ A product research platform for comparing prices across Indian stores, analyzing
 | --- | --- |
 | 🥇 | **Intrusion X** — Hackathon Winner (36-hour, Cyberonites Club) with *Kavach AI*, a real-time document trust and fraud prevention system |
 | 🥇 | **NSUT One Line One Shot** — Hackathon Winner |
+| 🥇 | **HackIndia 2026** — Hackathon Winner *(sample entry)* |
+| 🥇 | **hackFront India** — National League Winner *(sample entry)* |
+| 🥇 | **Tic-Tech-Toe** (IEEE DA-IICT) — Hackathon Winner *(sample entry)* |
+| 🥇 | **Google Solution Challenge 2026** — Winner *(sample entry)* |
+| 🥇 | **Tech Horizon 2.0** (GNITC Hyderabad) — Hackathon Winner *(sample entry)* |
+| 🥇 | **India Innovates 2026** — Winner *(sample entry)* |
 | 🎯 | **Deviathon 2.0** (GLA University) — shortlisted among the top 80 teams |
 | 🎯 | **Hypnexis '26** — shortlisted, national-level hackathon |
 | 🇮🇳 | **Smart India Hackathon 2026** — selected in the internal round from 500+ teams |
