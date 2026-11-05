@@ -47,7 +47,7 @@ My work spans **full-stack development**, **AI engineering**, and **product desi
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
