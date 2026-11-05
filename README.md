@@ -28,11 +28,11 @@ I'm **Aryan Garg**, a second-year B.Tech Computer Science student and software e
 
 My work spans **full-stack development**, **AI engineering**, and **product design**. I like taking an idea from an early prototype to a usable product, with an emphasis on thoughtful interfaces, reliable systems, and practical functionality.
 
-- 🔭 **Currently:** Front-End AI Engineering Intern at [FlyRank AI](https://www.flyrank.com), building interfaces for AI-powered search and organic growth products
-- 🏆 **Won** 8 hackathons including Intrusion X and NSUT One Line One Shot; shortlisted at Deviathon 2.0, Hypnexis '26 and SIH 2026
-- 🌱 **Exploring:** RAG pipelines, AI agents, and practical LLM products
-- 💬 **Ask me about:** React, Next.js, AI integrations, shipping fast
-- ⚡ **Fun fact:** I built 30 projects in 30 days
+- **Currently:** Front-End AI Engineering Intern at [FlyRank AI](https://www.flyrank.com), building interfaces for AI-powered search and organic growth products
+- **Won** 8 hackathons including Intrusion X and NSUT One Line One Shot; shortlisted at Deviathon 2.0, Hypnexis '26 and SIH 2026
+- **Exploring:** RAG pipelines, AI agents, and practical LLM products
+- **Ask me about:** React, Next.js, AI integrations, shipping fast
+- **Fun fact:** I built 30 projects in 30 days
 
 ---
 
@@ -154,21 +154,21 @@ A product research platform for comparing prices across Indian stores, analyzing
 
 ## 🏆 Achievements
 
-| | Achievement |
+| Event | Result |
 | --- | --- |
-| 🥇 | **Intrusion X** — Hackathon Winner (36-hour, Cyberonites Club) with *Kavach AI*, a real-time document trust and fraud prevention system |
-| 🥇 | **NSUT One Line One Shot** — Hackathon Winner |
-| 🥇 | **HackIndia 2026** — Hackathon Winner *(sample entry)* |
-| 🥇 | **hackFront India** — National League Winner *(sample entry)* |
-| 🥇 | **Tic-Tech-Toe** (IEEE DA-IICT) — Hackathon Winner *(sample entry)* |
-| 🥇 | **Google Solution Challenge 2026** — Winner *(sample entry)* |
-| 🥇 | **Tech Horizon 2.0** (GNITC Hyderabad) — Hackathon Winner *(sample entry)* |
-| 🥇 | **India Innovates 2026** — Winner *(sample entry)* |
-| 🎯 | **Deviathon 2.0** (GLA University) — shortlisted among the top 80 teams |
-| 🎯 | **Hypnexis '26** — shortlisted, national-level hackathon |
-| 🇮🇳 | **Smart India Hackathon 2026** — selected in the internal round from 500+ teams |
-| ⚡ | **30 Projects in 30 Days** — built and documented across web development and AI → [explore the collection](https://www.arynx.in/30projects) |
-| 🤝 | **25+ clients** served as a freelance developer |
+| **Intrusion X** (36-hour, Cyberonites Club) | Winner, with *Kavach AI*, a real-time document trust and fraud prevention system |
+| **NSUT One Line One Shot** | Winner |
+| **HackIndia 2026** | Winner |
+| **hackFront India** | National League Winner |
+| **Tic-Tech-Toe** (IEEE DA-IICT) | Winner |
+| **Google Solution Challenge 2026** | Winner |
+| **Tech Horizon 2.0** (GNITC Hyderabad) | Winner |
+| **India Innovates 2026** | Winner |
+| **Deviathon 2.0** (GLA University) | Shortlisted among the top 80 teams |
+| **Hypnexis '26** | Shortlisted |
+| **Smart India Hackathon 2026** | Selected in the internal round from 500+ teams |
+| **30 Projects in 30 Days** | Built and documented across web development and AI ([explore the collection](https://www.arynx.in/30projects)) |
+| **Freelance work** | 25+ clients served |
 
 ---
 
